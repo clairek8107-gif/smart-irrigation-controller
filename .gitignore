@@ -1,0 +1,8 @@
+# Compiled program
+irrigation
+
+# macOS files
+.DS_Store
+
+# C++ build files
+*.o
