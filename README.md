@@ -13,12 +13,12 @@ The program uses a text-based interface and simulated data, so no physical hardw
 
 ## Features
 
-1. Soil Moisture Simulation — Stub
-2. Rainfall Simulation — Stub
+1. Soil Moisture Simulation — Implemented
+2. Rainfall Simulation — Implemented
 3. Timer Controller — Implemented
 4. Smart Controller — Stub
-5. Compare Water Usage — Stub
-6. Save Results to CSV — Stub
+5. Compare Water Usage — Implemented (needs controller totals connected in `main.cpp`)
+6. Save Results to CSV — Implemented (writes `irrigation_results.csv`)
 7. Change Settings — Stub
 8. Exit — Implemented
 
